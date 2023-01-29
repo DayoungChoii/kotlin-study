@@ -21,3 +21,6 @@ https://school.programmers.co.kr/learn/courses/30/lessons/120820
 https://school.programmers.co.kr/learn/courses/30/lessons/120921
 https://school.programmers.co.kr/learn/courses/30/lessons/120910
 https://school.programmers.co.kr/learn/courses/30/lessons/131705
+
+### 2023.02 첫째 주
+https://school.programmers.co.kr/learn/courses/30/lessons/12910
