@@ -26,3 +26,8 @@ https://school.programmers.co.kr/learn/courses/30/lessons/131705
 https://school.programmers.co.kr/learn/courses/30/lessons/12910
 https://school.programmers.co.kr/learn/courses/30/lessons/12912
 https://school.programmers.co.kr/learn/courses/30/lessons/12915
+
+### 2023.02 둘째 주
+https://school.programmers.co.kr/learn/courses/30/lessons/120956
+https://school.programmers.co.kr/learn/courses/30/lessons/120913
+https://school.programmers.co.kr/learn/courses/30/lessons/120923
